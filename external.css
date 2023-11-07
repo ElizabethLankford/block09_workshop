@@ -120,7 +120,7 @@ form{
 1024x768
 480x320
 */
-@media (max-width: 1680px){
+@media (max-width: 2000px){
 
     .doodleBob-body{
         max-width: 225px;
